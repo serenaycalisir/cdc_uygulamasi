@@ -13,9 +13,9 @@ Uygulama Python programlama dili kullanılarak yazılmıştır.
 
 1. Bu Github repository'sini klonlayın.
 2. Terminalde proje klasörüne gidin.
-3. Docker Compose ile çalıştırmak için aşağıdaki komutu çalıştırın:
+3. Docker Compose ile çalıştırmak için: 
 docker-compose up
-Kubernetes ortamına deploy etmek için aşağıdaki komutu çalıştırın:
+4. Kubernetes ortamına deploy etmek için: 
 helm install my-cdc-app ./cdc-app-chart
 
 ## Kullanım
